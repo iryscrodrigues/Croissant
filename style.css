@@ -1,0 +1,31 @@
+:root{
+    background-color: #F8E8A6;
+}
+
+body {
+  margin: 60px auto;
+  max-width: 800px;
+}
+
+
+h2 {
+  text-align: center;
+  margin: 0;
+}
+
+p {
+  padding: 20px;
+  border-radius: 4px;
+  font-size: 18px;
+  line-height: 1.5;
+  text-align: center;
+}
+
+.navigation-links {
+  text-align: center;
+  margin: 0;
+}
+
+a {
+    color: green;
+}
